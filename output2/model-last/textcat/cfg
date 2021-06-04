@@ -1,0 +1,12 @@
+{
+  "labels":[
+    "economics",
+    "geography",
+    "history",
+    "politicalscience",
+    "science",
+    "sociology"
+  ],
+  "threshold":0.5,
+  "positive_label":null
+}
