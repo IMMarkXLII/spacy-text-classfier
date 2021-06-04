@@ -19,7 +19,7 @@ subjects = {
 
 nlp = spacy.load('en_core_web_md')
 
-targetDirPath = "~/Downloads/targetDataset"
+targetDirPath = "./targetDataset"
 
 all_files = [f'{targetDirPath}/{f}' for f in os.listdir(targetDirPath) if '.txt' in f]
 
